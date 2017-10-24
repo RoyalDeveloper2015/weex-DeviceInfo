@@ -3,6 +3,7 @@
     <image :src="logoUrl" class="logo"></image>
     <text class="title">Hello {{target}}</text>
     <text class="desc">Now, let's use vue to build your weex app.</text>
+    <button>Click Me</button>
   </div>
 </template>
 
@@ -11,6 +12,10 @@
   .title { padding-top:40px; padding-bottom: 40px; font-size: 48px; }
   .logo { width: 360px; height: 156px; }
   .desc { padding-top: 20px; color:#888; font-size: 24px;}
+  button {
+    width: 100%;
+    height: 30px;
+  }
 </style>
 
 <script>
