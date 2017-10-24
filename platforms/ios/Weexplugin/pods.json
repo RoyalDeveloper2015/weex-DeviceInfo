@@ -1,0 +1,8 @@
+{
+    "NatDeviceInfo": {
+        "name": "NatDeviceInfo",
+        "type": "podspec",
+        "spec": "0.0.2",
+        "count": 1
+    }
+}

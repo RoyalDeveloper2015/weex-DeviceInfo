@@ -1,0 +1,10 @@
+{
+    "nat-device-info": {
+        "source": {
+            "type": "registry",
+            "id": "nat-device-info"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

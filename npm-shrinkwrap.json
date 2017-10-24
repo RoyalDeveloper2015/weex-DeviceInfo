@@ -4800,6 +4800,11 @@
             "dev": true,
             "optional": true
         },
+        "natjs": {
+            "version": "0.1.2",
+            "resolved": "https://registry.npmjs.org/natjs/-/natjs-0.1.2.tgz",
+            "integrity": "sha512-wXaH7gNULGB1Hyx7SUCUejLar3KTfk+GOPc8QB2skbwex8Mud+SuKQo8hqKUSJrFDAB7hCO6zak7dGKmE3Tn3A=="
+        },
         "ncname": {
             "version": "1.0.0",
             "resolved": "http://registry.npm.taobao.org/ncname/download/ncname-1.0.0.tgz",
